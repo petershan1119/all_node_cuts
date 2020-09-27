@@ -885,7 +885,7 @@ int main(void)
 
 	igraph_i_set_attribute_table(&igraph_cattribute_table);
 
-	file = fopen("E:/Research/Lobby/k_components/cornwell_burchard_2019.txt", "r");
+	file = fopen("F:/practice/k_components/cornwell_burchard_2019.txt", "r");
 
 	if (!file) {
 		return 1;
